@@ -1,5 +1,5 @@
 # WaifuWare-Selfbot
-Discord Selfbot made by TaxMachine with few fun utilities(no raid commands)
+Discord Selfbot made by <a href="https://github.com/TaxMachine">TaxMachine</a> with few fun utilities(no raid commands)
 
 # Installation
 Install <a href="https://nodejs.org">NodeJS</a> if its not already done<br>
